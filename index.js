@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Pinche Furro 0.o')
+    alert('Pinche Posser :v')
 });
 
 const noBtn = document.querySelector('#noBtn');
